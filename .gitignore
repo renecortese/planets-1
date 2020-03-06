@@ -1,2 +1,6 @@
+#ignore all datafiles
 *.dat
+
+#except the final one
+!final.dat
 results/
